@@ -17,3 +17,4 @@ An end-to-end deep learning case study.
 ### Blogs
 
 * Hashnode → https://msameeruddin.hashnode.dev/deepglobe-road-extraction-challenge#heading-dl-problem-formulation
+* Medium → https://medium.com/dev-genius/deepglobe-road-extraction-challenge-1ae101966d24
