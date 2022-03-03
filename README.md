@@ -12,7 +12,6 @@ An end-to-end deep learning case study.
 ### Jovian Project
 
 * Road Extraction → https://jovian.ai/msameeruddin/collections/deep-globe-road-extraction
-    > ***Please check the above link for viewing the notebook files.***
 
 ### Blogs
 
