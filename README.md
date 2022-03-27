@@ -6,7 +6,7 @@ An end-to-end deep learning case study.
 
 ### Data Source
 
-* Kaggle Data → https://competitions.codalab.org/competitions/18467
+* Data Source → https://competitions.codalab.org/competitions/18467
 * Metric → IoU Score
 
 ### Jovian Project
